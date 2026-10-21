@@ -1,7 +1,7 @@
 # PulseWatch AI - Real-Time Social Listening for Patient Experience & Safety Signals
 
 An AI-powered healthcare ecosystem connecting hospitals, doctors, patients, pharmacies, and ambulances with predictive intelligence and real-time monitoring.
->https://pulsewatch-ai.vercel.app/<
+https://pulsewatch-ai.vercel.app/
 
 ## Features
 
